@@ -124,10 +124,11 @@ SNSでは、綺麗に盛り付けられた「**名前のある料理**」たち�
 - Rails7
 - Hotwire
 - postgreSQL
+- Redis...料理名生成機能の使用回数制限のために、IPアドレスと使用回数を格納する
 - JavaScript
 - BootStrap
 - Heroku
-- openai API(Chat GPT)...料理名の生成に使用
+- OpenAI API...料理名の生成に使用
 
 ## 🗓スケジュール
 1. 企画(アイデア企画・技術調査): 5/7
@@ -135,3 +136,7 @@ SNSでは、綺麗に盛り付けられた「**名前のある料理**」たち�
 3. 機能実装: 5/16〜6/16
 4. MVPリリース: 6/16
 5. 本リリース: 7/7
+
+## 🖥画面遷移図
+- Figmaのリンクは[**こちら**](https://www.figma.com/file/6Q1llX9yabbue2uU0OWOzq/Untitled?type=design&node-id=0-1&t=QuYtjEzxCkf1r6s7-0)をご覧ください。
+
